@@ -1,2 +1,2 @@
-#!//bin/bash
- echo This is a shell basics repon
+#!/bin/bash 
+ This is a shell basic/permissionns repo
