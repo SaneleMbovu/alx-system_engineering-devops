@@ -1,2 +1,2 @@
-#!/bin/bash 
-This is a directory for shell permissions
+#!/bin/bash
+this is a directory for shell permissions
